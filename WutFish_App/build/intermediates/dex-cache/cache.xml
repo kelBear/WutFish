@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/kelly/.android/build-cache/e63dd9cad1d9e2a27f091479e456d82220a7005b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/media/kelly/HDD1/WutFish_App/app/build/intermediates/pre-dexed/release/classes_aaa097e8e2eaa79437b9238c42688b9fdf4dde23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kelly/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/media/kelly/HDD1/WutFish_App/app/build/intermediates/pre-dexed/release/support-annotations-25.3.1_2eb6d741a1f3a5bc150d7103648e0423429dea35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kelly/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/media/kelly/HDD1/WutFish_App/app/build/intermediates/pre-dexed/release/constraint-layout-solver-1.0.2_a4fad006c57de3590fd513abaa5707dcbd5d933b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/kelly/HDD1/WutFish_App/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="96ced7965df48365d94261818f8390169247a699">
+        <dex dex="/media/kelly/HDD1/WutFish_App/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_9eee11ad08fdfc31d8d54c13723d45e8110ab370/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kelly/.android/build-cache/750c5463dcc4035d4e61e9c9981802fdb960420f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/media/kelly/HDD1/WutFish_App/app/build/intermediates/pre-dexed/release/classes_74eba3f0c08c7199ee31dbd401df373eb37c046a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kelly/.android/build-cache/4108658a2104f6bc87ef59978fd10a29302fca19/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/media/kelly/HDD1/WutFish_App/app/build/intermediates/pre-dexed/release/classes_12db027f942dffe590e587a4200c5152436b06fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kelly/.android/build-cache/993ac9c94b21ed2d6d74ddbe82c28adf1546b3f1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/media/kelly/HDD1/WutFish_App/app/build/intermediates/pre-dexed/release/classes_7ed373065ad3f3a10b50d03e00612d1ee2ca094f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kelly/.android/build-cache/745412107459d3ad48280a94ac0c38b4ae4e5cd3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/media/kelly/HDD1/WutFish_App/app/build/intermediates/pre-dexed/release/classes_2164e00d0126c4d7473a7319e14df76d5abb5e9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kelly/.android/build-cache/3769c369b11119c8faef8a003aed73aa707488cc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/media/kelly/HDD1/WutFish_App/app/build/intermediates/pre-dexed/release/classes_ef489bdf0c6aa1c8776beeb41375b28f64ed45fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kelly/.android/build-cache/1caf21bfb8c5c8bd2e85c205dff2d855fdd81c80/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/media/kelly/HDD1/WutFish_App/app/build/intermediates/pre-dexed/release/classes_3ef227e62c90cb54fce5cbc7e6cf278d7a76e875.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kelly/.android/build-cache/2f6645166347d7342fe1205ade675fd7fe895de2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/media/kelly/HDD1/WutFish_App/app/build/intermediates/pre-dexed/release/classes_51e1e4756b97e8d3dabaf35cb8a19c865461c330.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kelly/.android/build-cache/f8bbd1235b051b863ab43d47913077edbfa9bfd3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/media/kelly/HDD1/WutFish_App/app/build/intermediates/pre-dexed/release/classes_8edbd44742f42427ff8a8728db081d07c89e08a9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/kelly/HDD1/WutFish_App/app/libs/libandroid_tensorflow_inference_java.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="171b6bc21ec4662f323214aac8ff0c40b441ba9e">
+        <dex dex="/media/kelly/HDD1/WutFish_App/app/build/intermediates/transforms/dex/debug/folders/1000/2/libandroid_tensorflow_inference_java_7f6acad2490f0f6e3f7929903fa959bad2054217/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kelly/.android/build-cache/e48c865644fecfb759130c9dcac7827d72e5e1be/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/media/kelly/HDD1/WutFish_App/app/build/intermediates/pre-dexed/release/classes_8de1e5b696892a984082a0e13d701c795374d817.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/kelly/HDD1/WutFish_App/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/media/kelly/HDD1/WutFish_App/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_37df70c41a39a5e45e1a44309bb9d7b93f626742/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/kelly/HDD1/WutFish_App/app/libs/libandroid_tensorflow_inference_java.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="171b6bc21ec4662f323214aac8ff0c40b441ba9e">
+        <dex dex="/media/kelly/HDD1/WutFish_App/app/build/intermediates/pre-dexed/release/libandroid_tensorflow_inference_java_7f6acad2490f0f6e3f7929903fa959bad2054217.jar" />
+    </item>
+
+</items>
